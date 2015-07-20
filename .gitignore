@@ -15,3 +15,8 @@
 /log/*
 !/log/.keep
 /tmp
+
+# IntelliJ IDEA files
+*.iml
+.idea/
+
